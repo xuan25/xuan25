@@ -22,4 +22,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuan525&layout=compact" />
 </a>
 
+---
+
+[![Coursework Index Card](https://github-readme-stats.vercel.app/api/pin/?username=xuan525&repo=Coursework-Index)](https://github.com/xuan525/Coursework-Index)
+
 Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
